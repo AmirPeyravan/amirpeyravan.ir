@@ -252,12 +252,6 @@
                     </div>
                 </div>
             </div>
-
-            <div class="text-center mt-12">
-                <a href="#" class="animated-btn px-8 py-4 bg-gradient-to-r from-purple-600 to-indigo-700 text-white rounded-full font-semibold hover:shadow-lg hover:from-purple-700 hover:to-indigo-800 transition-all">
-                    مشاهده همه نمونه کارها
-                </a>
-            </div>
         </div>
     </section>
 @endsection
