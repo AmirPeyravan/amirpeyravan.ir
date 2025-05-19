@@ -31,7 +31,7 @@
         <div class="relative z-10 text-center">
             <div class="circle-image mb-8 mx-auto w-48 h-48 rounded-full overflow-hidden">
                 <div class="glow-effect"></div>
-                <img src="storage/images/me1.jpeg" alt="عکس شخصی" class="w-full h-full object-cover">
+                <img src="storage/images/me0.jpeg" alt="عکس شخصی" class="w-full h-full object-cover">
             </div>
             <h1 class="text-5xl md:text-7xl font-bold mb-3 gradient-text">امیرحسین پیروان</h1>
             <p class="text-xl md:text-2xl mb-8 text-gray-300">
