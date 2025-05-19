@@ -9,7 +9,7 @@
                     <div class="absolute -top-4 -right-4 w-full h-full border-2 border-purple-500 rounded-xl z-0"></div>
                     <div class="absolute -bottom-4 -left-4 w-full h-full border-2 border-yellow-500 rounded-xl z-0"></div>
                     <div class="circle-image w-full h-full rounded-xl overflow-hidden relative z-10">
-                        <img src="storage/images/me1.jpg" alt="عکس شخصی" class="w-full h-full object-cover">
+                        <img src="storage/images/me1.jpeg" alt="عکس شخصی" class="w-full h-full object-cover">
                     </div>
                 </div>
             </div>
