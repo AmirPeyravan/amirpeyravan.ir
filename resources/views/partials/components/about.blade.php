@@ -9,7 +9,7 @@
                     <div class="absolute -top-4 -right-4 w-full h-full border-2 border-purple-500 rounded-xl z-0"></div>
                     <div class="absolute -bottom-4 -left-4 w-full h-full border-2 border-yellow-500 rounded-xl z-0"></div>
                     <div class="circle-image w-full h-full rounded-xl overflow-hidden relative z-10">
-                        <img src="storage/images/me0.jpg" alt="عکس شخصی" class="w-full h-full object-cover">
+                        <img src="storage/images/me1.jpg" alt="عکس شخصی" class="w-full h-full object-cover">
                     </div>
                 </div>
             </div>
@@ -23,24 +23,21 @@
                         <span class="px-4 py-2 bg-green-600 bg-opacity-20 text-green-400 rounded-full text-sm">دانشجو مهندسی کامپیوتر</span>
                     </div>
 
-                    <p class="mb-4 text-lg leading-relaxed text-gray-300">سلام! من امیرحسین معتضدی هستم، یک توسعه‌دهنده حرفه‌ای با بیش از ۱۳ سال تجربه در حوزه فناوری اطلاعات. تخصص من در طراحی و توسعه وب‌سایت‌ها و برنامه‌های کاربردی با استفاده از تکنولوژی‌های مدرن است.</p>
+                    <p class="mb-4 text-lg leading-relaxed text-gray-300">
+
+                        من امیرحسین پروان، دانشجوی مهندسی کامپیوتر و برنامه‌نویس علاقه‌مند به توسعه وب و یادگیری ماشین هستم. با سابقه کار در PHP و آشنایی با مفاهیم شی‌ءگرایی و معماری MVC، مسیرم را با تمرکز بر فریم‌ورک Laravel و زبان‌های مکملی مثل JavaScript و Python ادامه می‌دهم. هدف من ساخت محصولات کاربردی، رشد تخصصی، و افتخارآفرینی برای خانواده‌ام است.
+
+                    </p>
 
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
-                        <div class="flex items-center space-x-2 space-x-reverse">
-                            <i class="fas fa-certificate text-yellow-400"></i>
-                            <span>MCSE، MCSD، MCP، MCT</span>
-                        </div>
-                        <div class="flex items-center space-x-2 space-x-reverse">
-                            <i class="fas fa-project-diagram text-yellow-400"></i>
-                            <span>+1000 پروژه موفق</span>
-                        </div>
+
                         <div class="flex items-center space-x-2 space-x-reverse">
                             <i class="fas fa-users text-yellow-400"></i>
-                            <span>آموزش بیش از ۱۸۶۷ دانشجو</span>
+                            <span>برنامه نویس خودآموز</span>
                         </div>
                         <div class="flex items-center space-x-2 space-x-reverse">
                             <i class="fas fa-chart-line text-yellow-400"></i>
-                            <span>مدیریت پروژه‌های سطح ملی</span>
+                            <span>مدیریت پروژه های شخصی</span>
                         </div>
                     </div>
 
@@ -67,7 +64,9 @@
                     <i class="fas fa-award text-yellow-400 text-2xl"></i>
                 </div>
                 <h3 class="text-xl font-bold mb-2">دستاوردها</h3>
-                <p class="text-gray-400">مدیریت پروژه‌های با بودجه بیش از ۸۰۰ میلیون و اجرای پروژه‌هایی با ارزش بیش از ۱۲۰۰ میلیون</p>
+                <p class="text-gray-400">
+                    دستاورد مهمی تا به حال نداشتم - ولی خواهم داشت
+                </p>
             </div>
 
             <div class="glass-card p-6 text-center">
@@ -75,7 +74,9 @@
                     <i class="fas fa-graduation-cap text-blue-400 text-2xl"></i>
                 </div>
                 <h3 class="text-xl font-bold mb-2">آموزش</h3>
-                <p class="text-gray-400">تدریس بیش از ۵۰ دوره آموزشی در حوزه‌های برنامه‌نویسی و توسعه وب</p>
+                <p class="text-gray-400">
+                     در زمینه آموزش فعالیتی ندارم
+                </p>
             </div>
         </div>
     </div>
